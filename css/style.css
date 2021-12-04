@@ -632,7 +632,7 @@ textarea.input {
 .title{
   color: #FFF;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .con-login{
@@ -680,6 +680,12 @@ textarea.input {
   outline: none;
 }
 
-/* .text-centerI{
-  width: 100vw;
-} */
+.product{
+  width: 20%;
+}
+
+.add-to-cart{
+  margin: auto;
+  width: 80%;
+  font-size: .8em;
+}
